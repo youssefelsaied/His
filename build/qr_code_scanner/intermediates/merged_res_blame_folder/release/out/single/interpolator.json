@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/qr_code_scanner/intermediates/res/merged/release/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/8299141dd8b586b9f2fe0edd695fc997/transformed/appcompat-1.4.2/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/qr_code_scanner/intermediates/res/merged/release/interpolator/fast_out_slow_in.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/8299141dd8b586b9f2fe0edd695fc997/transformed/appcompat-1.4.2/res/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/qr_code_scanner/intermediates/res/merged/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/8299141dd8b586b9f2fe0edd695fc997/transformed/appcompat-1.4.2/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/qr_code_scanner/intermediates/res/merged/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/8299141dd8b586b9f2fe0edd695fc997/transformed/appcompat-1.4.2/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/qr_code_scanner/intermediates/res/merged/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/8299141dd8b586b9f2fe0edd695fc997/transformed/appcompat-1.4.2/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/qr_code_scanner/intermediates/res/merged/release/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/8299141dd8b586b9f2fe0edd695fc997/transformed/appcompat-1.4.2/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/qr_code_scanner/intermediates/res/merged/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/8299141dd8b586b9f2fe0edd695fc997/transformed/appcompat-1.4.2/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    }
+]

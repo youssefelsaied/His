@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/qr_code_scanner/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/8299141dd8b586b9f2fe0edd695fc997/transformed/appcompat-1.4.2/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/qr_code_scanner/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/8299141dd8b586b9f2fe0edd695fc997/transformed/appcompat-1.4.2/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/qr_code_scanner/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/8299141dd8b586b9f2fe0edd695fc997/transformed/appcompat-1.4.2/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/qr_code_scanner/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/8299141dd8b586b9f2fe0edd695fc997/transformed/appcompat-1.4.2/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/qr_code_scanner/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/a0d7b55922cc1ef018aecf473c77ad88/transformed/core-1.7.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/qr_code_scanner/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/8299141dd8b586b9f2fe0edd695fc997/transformed/appcompat-1.4.2/res/drawable-v21/abc_dialog_material_background.xml"
+    }
+]

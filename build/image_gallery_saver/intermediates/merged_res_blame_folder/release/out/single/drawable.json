@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/image_gallery_saver/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/68666f665ea1d479f0deaf5bea17bf02/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/image_gallery_saver/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/68666f665ea1d479f0deaf5bea17bf02/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/image_gallery_saver/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/68666f665ea1d479f0deaf5bea17bf02/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/image_gallery_saver/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/68666f665ea1d479f0deaf5bea17bf02/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    }
+]

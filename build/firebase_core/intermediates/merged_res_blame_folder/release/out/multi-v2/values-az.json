@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/youssef/StudioProjects/m3ak_user/build/firebase_core/intermediates/res/merged/release/values-az/values-az.xml",
+            "map": [
+                {
+                    "source": "/Users/youssef/.gradle/caches/transforms-3/ad68c3e8aaf9ede20b84ed25756178e2/transformed/jetified-play-services-basement-18.0.0/res/values-az/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "157",
+                        "endOffsets": "352"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "161",
+                        "endOffsets": "212"
+                    }
+                },
+                {
+                    "source": "/Users/youssef/.gradle/caches/transforms-3/68666f665ea1d479f0deaf5bea17bf02/transformed/core-1.6.0/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "217",
+                        "endColumns": "100",
+                        "endOffsets": "313"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/youssef/StudioProjects/m3ak_user/build/firebase_core/intermediates/incremental/mergeReleaseResources/merged.dir/values-az/values-az.xml",
+            "map": [
+                {
+                    "source": "/Users/youssef/.gradle/caches/transforms-3/ad68c3e8aaf9ede20b84ed25756178e2/transformed/jetified-play-services-basement-18.0.0/res/values-az/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "157",
+                        "endOffsets": "352"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "161",
+                        "endOffsets": "212"
+                    }
+                },
+                {
+                    "source": "/Users/youssef/.gradle/caches/transforms-3/68666f665ea1d479f0deaf5bea17bf02/transformed/core-1.6.0/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "217",
+                        "endColumns": "100",
+                        "endOffsets": "313"
+                    }
+                }
+            ]
+        }
+    ]
+}

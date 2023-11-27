@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "428741327030",
+    "project_id": "ma3ak-85830",
+    "storage_bucket": "ma3ak-85830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428741327030:android:88bae6c5cf0e511f99ce17",
+        "android_client_info": {
+          "package_name": "com.m3akPharm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428741327030-aolqtqdi8gg5e2qbh80akej7e970ek71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.m3akPharm",
+            "certificate_hash": "f3a20a94c0b12c29f39e49e9288e43dd39c1f0c6"
+          }
+        },
+        {
+          "client_id": "428741327030-raqvvp5cie9sn14qj03t31403unkks46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.m3akPharm",
+            "certificate_hash": "9485ba1811b2413ea44c89d430c49a3111ceb9e9"
+          }
+        },
+        {
+          "client_id": "428741327030-ga8e5cah6qq2cl9acdh68jarps3qq5cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuPG7ezWF9CXUxPALe5HL7Jc9nwLyORe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428741327030-ga8e5cah6qq2cl9acdh68jarps3qq5cf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "428741327030-pvqtm1ingavqtcqjv5a9elov0hns90nm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ma3ak",
+                "app_store_id": "1600054404"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/m3akPharm/BuildConfig.java
+ com.m3akPharm.BuildConfig

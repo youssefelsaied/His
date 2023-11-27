@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/qr_code_scanner/intermediates/res/merged/release/menu/example_menu2.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/a0d7b55922cc1ef018aecf473c77ad88/transformed/core-1.7.0/res/menu/example_menu2.xml"
+    },
+    {
+        "merged": "/Users/youssef/StudioProjects/m3ak_user/build/qr_code_scanner/intermediates/res/merged/release/menu/example_menu.xml",
+        "source": "/Users/youssef/.gradle/caches/transforms-3/a0d7b55922cc1ef018aecf473c77ad88/transformed/core-1.7.0/res/menu/example_menu.xml"
+    }
+]
